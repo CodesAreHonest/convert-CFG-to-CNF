@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="theory-of-computation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/theory_of_computation_jar</output-path>
+    <root id="archive" name="theory-of-computation.jar">
+      <element id="module-output" name="theory-of-computation" />
+    </root>
+  </artifact>
+</component>
