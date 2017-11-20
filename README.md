@@ -13,7 +13,7 @@ Table Of Contents
 * [Getting Started](#getting-started)
   * [Infrastructure Setup and Installation](#infrastructure-setup-and-installation)
 * [Highlights](#highlights)
-  * [Software Resources](#software-resources)
+  * [Software Resources](#software-resources)
   * [Usage](#usage)
 * [About](#about)
   * [Contributor](#contributor)
