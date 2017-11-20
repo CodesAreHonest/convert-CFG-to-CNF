@@ -79,6 +79,7 @@ About
 Contributor
 -----------
 - **Chai Ying Hua**
+- **Yap Say Wei**
 
 Status
 ------
